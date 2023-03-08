@@ -1,0 +1,1 @@
+const flatArrat = require('./flatArray');
